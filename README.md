@@ -1,4 +1,4 @@
-A small Sinatra app that retrieves machine-readable information from web pages and generates embed code if it's a known type.
+A Sinatra app that retrieves machine-readable information from web pages and generates embed code if it's a known type.
 
 Currently supports:
 
