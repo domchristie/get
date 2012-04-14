@@ -15,7 +15,7 @@ Plans to include:
 * Twitter
 
 ## Example
-An example exists at http://gentle-stream-2944.herokuapp.com/ :
+A live (experimental) example exists at http://gentle-stream-2944.herokuapp.com/ :
 
     GET http://gentle-stream-2944.herokuapp.com/?url=http://www.youtube.com/watch?v=1iYElrdil-M
 
@@ -31,6 +31,14 @@ An example exists at http://gentle-stream-2944.herokuapp.com/ :
     }
 
 Also supports JSONP given a callback param.
+
+## Contribute
+
+Adding a new 'type' requires adding a new class that inherits from UrlResource, then adding the class name to the types array in `get.rb` (before `UrlResource`). The `PATTERN` constant is used to match the url. See any class in the `url_resources` directory for an example.
+
+## Acknowledgments
+
+Thanks to @samoli for getting me started with Sinatra/Ruby and for advice on structuring the project.
 
 ## Licence
 
