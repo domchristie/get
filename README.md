@@ -38,7 +38,7 @@ Adding a new 'type' requires adding a new class that inherits from UrlResource, 
 
 ## Acknowledgments
 
-Thanks to @samoli for getting me started with Sinatra/Ruby and for advice on structuring the project.
+Thanks to [samoli](https://github.com/samoli) for getting me started with Sinatra/Ruby and for advice on structuring the project.
 
 ## Licence
 
