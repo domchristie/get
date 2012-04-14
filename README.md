@@ -24,6 +24,7 @@ Plans to include:
       "type": "youtube",
       "url":"http://www.youtube.com/watch?v=1iYElrdil-M",
       "title": "Save The Arts: An Important Message About the Arts by David Shrigley - YouTube",
+      "description": "David Shrigley's brilliant new video as part of Save The Arts, a new campaign by more than 100 leading UK artists urging the government not to cut arts fundi...",
       "id": "1iYElrdil-M",
       "embed_code": "<iframe width="560" height="315" src="http://www.youtube.com/embed/1iYElrdil-M?rel=0" frameborder="0" allowfullscreen></iframe>"
     }
