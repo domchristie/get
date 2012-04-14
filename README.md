@@ -15,8 +15,9 @@ Plans to include:
 * Twitter
 
 ## Example
+An example exists at http://gentle-stream-2944.herokuapp.com/ :
 
-    GET http://localhost:4567?url=http://www.youtube.com/watch?v=1iYElrdil-M
+    GET http://gentle-stream-2944.herokuapp.com/?url=http://www.youtube.com/watch?v=1iYElrdil-M
 
 ### Returns:
 
