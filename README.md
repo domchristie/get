@@ -26,7 +26,7 @@ Plans to include:
       "title": "Save The Arts: An Important Message About the Arts by David Shrigley - YouTube",
       "description": "David Shrigley's brilliant new video as part of Save The Arts, a new campaign by more than 100 leading UK artists urging the government not to cut arts fundi...",
       "id": "1iYElrdil-M",
-      "embed_code": "<iframe width="560" height="315" src="http://www.youtube.com/embed/1iYElrdil-M?rel=0" frameborder="0" allowfullscreen></iframe>"
+      "embed_code": "&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;http://www.youtube.com/embed/1iYElrdil-M&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;"
     }
 
 Also supports JSONP given a callback param.
